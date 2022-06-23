@@ -1,0 +1,10 @@
+C:\Users\Quan\FU\PRN211\slot14\slot14\bin\Debug\slot14.exe.config
+C:\Users\Quan\FU\PRN211\slot14\slot14\bin\Debug\slot14.exe
+C:\Users\Quan\FU\PRN211\slot14\slot14\bin\Debug\slot14.pdb
+C:\Users\Quan\FU\PRN211\slot14\slot14\obj\Debug\slot14.frmChildForm.resources
+C:\Users\Quan\FU\PRN211\slot14\slot14\obj\Debug\slot14.frmMain.resources
+C:\Users\Quan\FU\PRN211\slot14\slot14\obj\Debug\slot14.Properties.Resources.resources
+C:\Users\Quan\FU\PRN211\slot14\slot14\obj\Debug\slot14.csproj.GenerateResource.cache
+C:\Users\Quan\FU\PRN211\slot14\slot14\obj\Debug\slot14.csproj.CoreCompileInputs.cache
+C:\Users\Quan\FU\PRN211\slot14\slot14\obj\Debug\slot14.exe
+C:\Users\Quan\FU\PRN211\slot14\slot14\obj\Debug\slot14.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "//vr0Pxq4ml8WpcdI+Cp1QXJ2SPl7T90jeET1gMoy08JrUnlyJQC8UUg49Uo09AmdciKt6fMzBN2/Oev1RFZUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quan\\FU\\PRN211\\Ass01Solution\\MyStoreWinApp\\MyStoreWinApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\bin\Debug\net5.0\Fileclass.exe
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\bin\Debug\net5.0\Fileclass.deps.json
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\bin\Debug\net5.0\Fileclass.runtimeconfig.json
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\bin\Debug\net5.0\Fileclass.runtimeconfig.dev.json
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\bin\Debug\net5.0\Fileclass.dll
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\bin\Debug\net5.0\ref\Fileclass.dll
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\bin\Debug\net5.0\Fileclass.pdb
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\obj\Debug\net5.0\Fileclass.csproj.AssemblyReference.cache
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\obj\Debug\net5.0\Fileclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\obj\Debug\net5.0\Fileclass.AssemblyInfoInputs.cache
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\obj\Debug\net5.0\Fileclass.AssemblyInfo.cs
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\obj\Debug\net5.0\Fileclass.csproj.CoreCompileInputs.cache
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\obj\Debug\net5.0\Fileclass.dll
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\obj\Debug\net5.0\ref\Fileclass.dll
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\obj\Debug\net5.0\Fileclass.pdb
+C:\Users\Quan\FU\PRN211\Slot12\Fileclass\obj\Debug\net5.0\Fileclass.genruntimeconfig.cache

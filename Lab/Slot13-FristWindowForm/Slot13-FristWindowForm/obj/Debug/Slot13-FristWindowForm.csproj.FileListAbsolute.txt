@@ -1,0 +1,10 @@
+C:\Users\Quan\FU\PRN211\Slot13-FristWindowForm\Slot13-FristWindowForm\bin\Debug\Slot13-FristWindowForm.exe.config
+C:\Users\Quan\FU\PRN211\Slot13-FristWindowForm\Slot13-FristWindowForm\bin\Debug\Slot13-FristWindowForm.exe
+C:\Users\Quan\FU\PRN211\Slot13-FristWindowForm\Slot13-FristWindowForm\bin\Debug\Slot13-FristWindowForm.pdb
+C:\Users\Quan\FU\PRN211\Slot13-FristWindowForm\Slot13-FristWindowForm\obj\Debug\Slot13-FristWindowForm.csproj.AssemblyReference.cache
+C:\Users\Quan\FU\PRN211\Slot13-FristWindowForm\Slot13-FristWindowForm\obj\Debug\Slot13_FristWindowForm.Form1.resources
+C:\Users\Quan\FU\PRN211\Slot13-FristWindowForm\Slot13-FristWindowForm\obj\Debug\Slot13_FristWindowForm.Properties.Resources.resources
+C:\Users\Quan\FU\PRN211\Slot13-FristWindowForm\Slot13-FristWindowForm\obj\Debug\Slot13-FristWindowForm.csproj.GenerateResource.cache
+C:\Users\Quan\FU\PRN211\Slot13-FristWindowForm\Slot13-FristWindowForm\obj\Debug\Slot13-FristWindowForm.csproj.CoreCompileInputs.cache
+C:\Users\Quan\FU\PRN211\Slot13-FristWindowForm\Slot13-FristWindowForm\obj\Debug\Slot13-FristWindowForm.exe
+C:\Users\Quan\FU\PRN211\Slot13-FristWindowForm\Slot13-FristWindowForm\obj\Debug\Slot13-FristWindowForm.pdb

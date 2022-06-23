@@ -1,0 +1,12 @@
+C:\Users\Quan\FU\PRN211\Slot11\MyLibary\bin\Debug\net5.0\MyLibary.deps.json
+C:\Users\Quan\FU\PRN211\Slot11\MyLibary\bin\Debug\net5.0\MyLibary.dll
+C:\Users\Quan\FU\PRN211\Slot11\MyLibary\bin\Debug\net5.0\ref\MyLibary.dll
+C:\Users\Quan\FU\PRN211\Slot11\MyLibary\bin\Debug\net5.0\MyLibary.pdb
+C:\Users\Quan\FU\PRN211\Slot11\MyLibary\obj\Debug\net5.0\MyLibary.csproj.AssemblyReference.cache
+C:\Users\Quan\FU\PRN211\Slot11\MyLibary\obj\Debug\net5.0\MyLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quan\FU\PRN211\Slot11\MyLibary\obj\Debug\net5.0\MyLibary.AssemblyInfoInputs.cache
+C:\Users\Quan\FU\PRN211\Slot11\MyLibary\obj\Debug\net5.0\MyLibary.AssemblyInfo.cs
+C:\Users\Quan\FU\PRN211\Slot11\MyLibary\obj\Debug\net5.0\MyLibary.csproj.CoreCompileInputs.cache
+C:\Users\Quan\FU\PRN211\Slot11\MyLibary\obj\Debug\net5.0\MyLibary.dll
+C:\Users\Quan\FU\PRN211\Slot11\MyLibary\obj\Debug\net5.0\ref\MyLibary.dll
+C:\Users\Quan\FU\PRN211\Slot11\MyLibary\obj\Debug\net5.0\MyLibary.pdb
