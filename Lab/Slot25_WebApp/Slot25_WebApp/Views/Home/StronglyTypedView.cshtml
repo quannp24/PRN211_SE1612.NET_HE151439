@@ -1,0 +1,13 @@
+﻿@model Slot25_WebApp.Models.Product
+
+<form action="/home/edit" method="post">
+    <input type="hidden" asp-for="ProductID" />
+    <label for="@Model.ProductName">ProductName</label>
+    <input type="text" asp-for="ProductName" />
+    <label for="@Model.UnitPrice">UnitPrice</label>
+    <input type="text" name="@Model.UnitPrice" />
+    <label for="@Model.UnitInStock">UnitInStock</label>
+    <input type="text" name="@Model.UnitInStock"/>
+    <input type="submit" name="submit"/>
+
+</form>
