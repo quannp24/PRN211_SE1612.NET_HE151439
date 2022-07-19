@@ -1,0 +1,15 @@
+C:\Users\Quan\FU\PRN211\AutomobileSolutionLab3\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.deps.json
+C:\Users\Quan\FU\PRN211\AutomobileSolutionLab3\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.runtimeconfig.json
+C:\Users\Quan\FU\PRN211\AutomobileSolutionLab3\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.runtimeconfig.dev.json
+C:\Users\Quan\FU\PRN211\AutomobileSolutionLab3\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.dll
+C:\Users\Quan\FU\PRN211\AutomobileSolutionLab3\AutomobileLibrary\bin\Debug\net5.0\ref\AutomobileLibrary.dll
+C:\Users\Quan\FU\PRN211\AutomobileSolutionLab3\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.pdb
+C:\Users\Quan\FU\PRN211\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quan\FU\PRN211\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfoInputs.cache
+C:\Users\Quan\FU\PRN211\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfo.cs
+C:\Users\Quan\FU\PRN211\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Quan\FU\PRN211\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.dll
+C:\Users\Quan\FU\PRN211\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net5.0\ref\AutomobileLibrary.dll
+C:\Users\Quan\FU\PRN211\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.pdb
+C:\Users\Quan\FU\PRN211\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.genruntimeconfig.cache
+C:\Users\Quan\FU\PRN211\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.AssemblyReference.cache
